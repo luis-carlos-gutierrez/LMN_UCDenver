@@ -1,1 +1,1 @@
-Before using any of the scripts, make sure to have registered and received an API key from Google. Then go into the any program with the label 'api' and paste the API key into the variable that stores the API key.
+Before using any of the scripts that involve the use of APIs, make sure to have registered and received an API key from Google. Then go into the any program with the label 'api' and paste the API key into the variable that stores the API key.
